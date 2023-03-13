@@ -1,1 +1,1 @@
-This is a JavScript project to kick of frontend programming
+This is a project on JavaScript which kicks off front =end programming
